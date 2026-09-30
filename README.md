@@ -10,4 +10,4 @@ pobranych ze strony www.mintos.com
 
 Pliki csv wczytywane w skryptach nie zostały załączone ze względu na prawa autorskie. 
 
-Załączone wykresy zostały wygenerowane w Statistice. Ułatwiły one ocenę finalnego modelu i wybór punktu odcięcia.
+Załączone wykresy zostały wygenerowane w Statistice. Ułatwiły one wybór i ocenę finalnego modelu oraz ustalenie punktu odcięcia.
