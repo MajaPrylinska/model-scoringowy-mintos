@@ -9,3 +9,5 @@ Pracowano na trzech plikach:
 pobranych ze strony www.mintos.com
 
 Pliki csv wczytywane w skryptach nie zostały załączone ze względu na prawa autorskie. 
+
+Załączone wykresy zostały wygenerowane w Statistice. Ułatwiły one ocenę finalnego modelu i wybór punktu odcięcia.
